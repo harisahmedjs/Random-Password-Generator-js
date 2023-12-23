@@ -85,6 +85,9 @@ body{
         border-radius:  5px ;
         position:relative;
     }
+    #Password{
+        width: 90%;
+    }
     .container h1{
         font-size: 30px;
         font-weight: 500;
